@@ -1,0 +1,4 @@
+echo pin=8
+trig pin=7
+servo piun=9
+led pin=13
